@@ -6,8 +6,7 @@ Welcome to the official repository for the RHGROD20 Unity Assets website.
 
 This website showcases Unity assets developed by RHGROD20, including:
 
-- Editor Tools
-- Gameplay Systems
+- Items/Enemies
 - UI Packages
 - Documentation
 - Support Resources
